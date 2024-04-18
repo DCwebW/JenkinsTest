@@ -1,1 +1,9 @@
 Voici un fichier de test pour push github via Jenkins
+
+Update pour Git push et lancement de build auto 
+
+yes 
+
+yes
+
+
